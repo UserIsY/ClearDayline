@@ -88,9 +88,9 @@ Follow this exact output format:
 ### Later
 
 1. Task name
-   Next action: One short first step."
+   Next action: One short first step.
 
-### End   
+### End "
 ```
 
 ### Run locally
